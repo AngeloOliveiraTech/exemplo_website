@@ -1,0 +1,45 @@
+.jumbotron{
+    background-color:#343A40;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    color: white;
+}
+.margem{
+    margin-top: 5%;
+}
+.espacop{
+    padding-top: 4%;
+}
+.espacopsec3{
+    padding-left: 4%;
+}
+.secao1{
+    background-color: white;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+.secao2{
+    background-color: #184918;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+.secao3{
+    background-color: white;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+.fig1{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.bordaimg {
+    border: black 2px solid;
+}
+.footer{
+    background-color: #343A40;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
